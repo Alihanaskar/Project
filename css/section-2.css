@@ -1,0 +1,51 @@
+.image{
+    background-image: url('../JS/page_slide02.jpeg');
+    height: 640px;
+    z-index: 0;
+}
+.block{
+    background-color: rgba(62, 62, 62, 0.9);
+    width: 480px;
+    height: 640px;
+    z-index: 1;
+    margin: 0 auto;
+    margin-left: 750px;
+    opacity: .8,4;
+}
+.content{
+    text-align: left;
+}
+.content p{
+    color:#fff;
+
+}
+.block-item{
+
+}
+.inside-content{
+    padding-left: 55px;
+    padding-top: 20px;
+    color: #fff;
+}
+.inside-content h3{
+    font-size: 34px;
+    line-height: 1.41176;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 400;
+    letter-spacing: .0075em;
+}
+.inside-content h1{
+    font-size: 56px;
+    line-height: 1.14286;
+}
+.info{
+    font-size: 20px;
+}
+h1,h2,h3,h4,h5,h6{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 400;
+    letter-spacing: .0075em;
+    font-family: inherit;
+}
